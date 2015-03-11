@@ -11,6 +11,7 @@ while not x == 0:
 	res = x
 '''
 
+
 def get_power(x):
 	runner = res = x
 	while not runner == 1:
