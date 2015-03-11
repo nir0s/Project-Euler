@@ -1,4 +1,4 @@
-project_euler
-=============
+Project Euler wrapper and solutions
+===================================
 
 http://projecteuler.net/
